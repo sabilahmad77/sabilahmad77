@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/newsletters/7242043917003616256/" target="_blank">
     <img alt="Subscribe to my Newsletter" src="https://img.shields.io/badge/Newsletter-0B1F3A?style=for-the-badge&logo=substack&logoColor=white">
   </a>
-  <a href="https://medium.com/" target="_blank">
+  <a href="https://medium.com/@sabilkhattak77" target="_blank">
     <img alt="Read on Medium" src="https://img.shields.io/badge/Medium-0B1F3A?style=for-the-badge&logo=medium&logoColor=white">
   </a>
   <a href="mailto:info@sabilahmad.com" target="_blank">
