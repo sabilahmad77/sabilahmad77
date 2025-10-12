@@ -1,10 +1,3 @@
-<!--
-Personal Brand Colors (tweak these if you want to match your site exactly)
-Primary Navy: #0B1F3A
-Accent Gold : #C8A75E
-Ink         : #0E1117 (GitHub dark)
--->
-
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm <span style="color:#C8A75E;">Sabil Ahmad</span></h1>
 <h3 align="center">CTO • Lead MERN & Blockchain Developer • AI & Web3 Builder</h3>
@@ -63,37 +56,27 @@ Ink         : #0E1117 (GitHub dark)
 
 ---
 
-### 🧠 Tech I lead with
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,ts,js,html,css,tailwind,graphql,mongodb,postgres,docker,aws,linux,git,github,figma,solidity,python,postman,vercel" />
+### 🛠️ My Tech Stack (Manual & Real)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,react,nextjs,redux,mongodb,postgres,graphql,solidity,ethereum,aws,docker,linux,python,git,figma,tailwind,html,css" />
 </p>
 
-- **Backend:** Node.js (Express/Nest), REST/GraphQL, job queues, websockets  
-- **Frontend:** React/Next.js, Tailwind, component systems, SSR/ISR  
-- **Data:** MongoDB, PostgreSQL, caching, analytics pipelines  
-- **DevOps:** Docker, AWS, CI/CD, IaC, observability  
-- **Chain:** Solidity, EVM design, audits, oracles, custody/escrow flows  
-
----
-
-### 🔗 Quick links / CTAs
-- 📝 **LinkedIn:** <a href="https://www.linkedin.com/in/sabilahmad/" target="_blank">/in/sabilahmad</a>  
-- 📰 **Newsletter:** <a href="https://www.linkedin.com/newsletters/7242043917003616256/" target="_blank">Tech, Web3 & Product Notes</a>  
-- 🧵 **X (Twitter):** <a href="https://x.com/SabilAhmad77" target="_blank">@SabilAhmad77</a>  
-- 🌐 **Portfolio:** <a href="https://www.sabilahmad.com" target="_blank">sabilahmad.com</a> • <a href="https://www.ahmadsabil.com" target="_blank">ahmadsabil.com</a>  
-- 📧 **Email:** <a href="mailto:info@sabilahmad.com">info@sabilahmad.com</a>
+- **Blockchain & Web3:** Solidity, Ethereum, ERC standards, Web3.js  
+- **Languages:** JavaScript (ES6+), TypeScript, Python  
+- **Backend:** Node.js, Express.js, GraphQL APIs  
+- **Frontend:** React.js, Next.js, Redux, TailwindCSS  
+- **Databases:** MongoDB, PostgreSQL  
+- **DevOps:** Docker, AWS, Linux, GitHub Actions  
+- **Other Tools:** Figma, Postman, CI/CD, testing frameworks  
 
 ---
 
 ### 📈 GitHub stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabilahmad77&show_icons=true&theme=transparent&title_color=C8A75E&icon_color=C8A75E&text_color=ADB5BD" alt="stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabilahmad77&show_icons=true&theme=transparent&title_color=C8A75E&icon_color=C8A75E&text_color=ADB5BD&hide_border=true" alt="stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sabilahmad77&theme=dark&ring=C8A75E&fire=C8A75E&currStreakLabel=C8A75E" alt="streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabilahmad77&layout=compact&theme=transparent&title_color=C8A75E&text_color=ADB5BD" alt="top-langs">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sabilahmad77&theme=dark&ring=C8A75E&fire=C8A75E&currStreakLabel=C8A75E&hide_border=true" alt="streak">
 </p>
 
 ---
@@ -102,10 +85,9 @@ Ink         : #0E1117 (GitHub dark)
 - Write clean, testable code with **architecture first** thinking  
 - Ship **MVPs fast**, instrument, iterate, and scale  
 - Lead teams with **clarity, documentation, and ownership**  
-- Balance **user value, reliability, and cost** on every roadmap
+- Balance **user value, reliability, and cost** on every roadmap  
 
 ---
 
 #### ⚡ Pinned highlights
 > Explore my pinned repositories below — demos, utilities, and product code I’m allowed to open-source.
-
